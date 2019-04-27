@@ -1,1 +1,1 @@
-###	Cryptocurrency Price Index data from CryptoCompare API.
+##	Cryptocurrency Price Index data from CryptoCompare API.
