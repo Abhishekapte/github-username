@@ -1,10 +1,7 @@
 import React from 'react';
 import { withRouter  } from 'react-router-dom';
 
-/*
-This component displays a form where the user can enter a GitHub username
-When they submit the form either by pressing ENTER or clicking the button
-*/
+
 class Search extends React.Component {
     constructor(props) {
         super(props);
