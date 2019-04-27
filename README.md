@@ -1,4 +1,4 @@
-##	Cryptocurrency Price Index data from CryptoCompare API.
+##	2.	Fetch GitHub user’s information via API.
 •	Tools: React, Router
 
-Explore the top 50 cryptocurrency, including cryptocurrency price, market cap etc.
+A form that accepts a GitHub username and once it receive a ‘submit’ event, it ask GitHub API for the user information.
